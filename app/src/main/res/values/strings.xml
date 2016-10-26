@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">RecycleViewWithDeleteOption</string>
+    <array name="names">
+        <item>Aakash</item>
+        <item>Aalishan</item>
+        <item>Aman</item>
+        <item>Ankur</item>
+        <item>Nigam</item>
+        <item>Dinesh</item>
+        <item>Ekamra</item>
+        <item>Ganesh</item>
+        <item>Guru</item>
+    </array>
+
+    <array name="email">
+        <item>Aakash@gmail.com</item>
+        <item>Aalishan@gmail.com</item>
+        <item>Aman@gmail.com</item>
+        <item>Ankur@gmail.com</item>
+        <item>Nigam@gmail.com</item>
+        <item>Dinesh@gmail.com</item>
+        <item>Ekamra@gmail.com</item>
+        <item>Ganesh@gmail.com</item>
+        <item>Guru@gmail.com</item>
+    </array>
+</resources>
